@@ -1,42 +1,34 @@
 {
-  "name": "assignment1",
-  "version": "0.0.1",
+  "name": "midterm",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
   },
-  "engines": {
-    "node": "^14.15.5",
-    "npm": "^6.0.0"
-  },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.2",
-    "bootstrap": "^4.6.0",
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jquery": "^3.5.1",
-    "mongoose": "^5.11.18",
+    "mongoose": "^5.10.2",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.7",
     "popper.js": "^1.16.1"
   },
-  "main": "app.js",
+  "description": "midterm solution",
+  "main": "server.js",
   "devDependencies": {},
-  "author": "Amani Ommi",
-  "license": "ISC",
-  "description": "Demo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amaniommi/WebDev.git"
+    "url": "git+https://github.com/amaniommi/COMP229-F202-MidTerm-301152577.git"
   },
+  "author": "Amani Ommi",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amaniommi/WebDev/issues"
+    "url": "https://github.com/amaniommi/COMP229-F202-MidTerm-301152577/issues"
   },
-  "homepage": "https://github.com/amaniommi/WebDev#readme",
-  "keywords": [
-    "MyDemo"
-  ]
+  "homepage": "https://github.com/amaniommi/COMP229-F202-MidTerm-301152577#readme"
 }

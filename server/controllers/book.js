@@ -47,9 +47,6 @@ module.exports.processAddPage = (req, res, next) => {
     });
 
 }
-/*
-Add your code here to display EDIT
-*/
 module.exports.displayEditPage = (req, res, next) => {
     let id = req.params.id;
 
@@ -95,9 +92,6 @@ module.exports.processEditPage = (req, res, next) => {
         }
     });
 }
-
-
-
 /*
 Add your code here to perform DELETE operation
 */

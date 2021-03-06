@@ -12,8 +12,8 @@ router.get('/home', indexController.displayHomePage);
 /* GET About Us page. */
 router.get('/about', indexController.displayAboutPage);
 
-/* GET Projects page. */
-router.get('/project', indexController.displayProjectPage);
+/* GET Products page. */
+router.get('/products', indexController.displayProductsPage);
 
 /* GET Services page. */
 router.get('/services', indexController.displayServicesPage);
@@ -22,4 +22,3 @@ router.get('/services', indexController.displayServicesPage);
 router.get('/contact', indexController.displayContactPage);
 
 module.exports = router;
-
