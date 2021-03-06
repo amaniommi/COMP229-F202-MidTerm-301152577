@@ -5,6 +5,5 @@
 
 module.exports =
 {
-    "URI": ""
- 
+    "URI": "mongodb+srv://admin:LwCq7hz0r3hBxKbe@amongo.wjucs.mongodb.net/favbooks?retryWrites=true&w=majority"
 }

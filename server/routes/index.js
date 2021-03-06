@@ -12,7 +12,7 @@ router.get('/home', indexController.displayHomePage);
 /* GET About Us page. */
 router.get('/about', indexController.displayAboutPage);
 
-/* GET Products page. */
+/* GET Projects page. */
 router.get('/project', indexController.displayProjectPage);
 
 /* GET Services page. */
